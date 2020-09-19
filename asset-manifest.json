@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/expense-tracker-by-farooq/static/css/main.558648cf.chunk.css",
+    "main.js": "/expense-tracker-by-farooq/static/js/main.f4804f5f.chunk.js",
+    "main.js.map": "/expense-tracker-by-farooq/static/js/main.f4804f5f.chunk.js.map",
+    "runtime-main.js": "/expense-tracker-by-farooq/static/js/runtime-main.9d42a3ce.js",
+    "runtime-main.js.map": "/expense-tracker-by-farooq/static/js/runtime-main.9d42a3ce.js.map",
+    "static/js/2.eceafb4a.chunk.js": "/expense-tracker-by-farooq/static/js/2.eceafb4a.chunk.js",
+    "static/js/2.eceafb4a.chunk.js.map": "/expense-tracker-by-farooq/static/js/2.eceafb4a.chunk.js.map",
+    "index.html": "/expense-tracker-by-farooq/index.html",
+    "precache-manifest.d5d70fcec5be3025fd322b4ef529f5ea.js": "/expense-tracker-by-farooq/precache-manifest.d5d70fcec5be3025fd322b4ef529f5ea.js",
+    "service-worker.js": "/expense-tracker-by-farooq/service-worker.js",
+    "static/css/main.558648cf.chunk.css.map": "/expense-tracker-by-farooq/static/css/main.558648cf.chunk.css.map",
+    "static/js/2.eceafb4a.chunk.js.LICENSE.txt": "/expense-tracker-by-farooq/static/js/2.eceafb4a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d42a3ce.js",
+    "static/js/2.eceafb4a.chunk.js",
+    "static/css/main.558648cf.chunk.css",
+    "static/js/main.f4804f5f.chunk.js"
+  ]
+}
